@@ -1,0 +1,3 @@
+Change directory - cd
+List items - ls
+I do not know any of the remaining commands
