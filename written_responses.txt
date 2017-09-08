@@ -1,0 +1,10 @@
+Problem 4: Interpreted and Compiled Languages
+
+An interpreted language is one that is interpreted by the machine (It may run differently o different devices with differing interpreters), where as a compiled language is one that is compiled by the computer before being used. Java is a language that needs to be compiled before using, whereas javascript is a language that is interpreted. A developer should choose a compiled language when creating something that needs to be a complete package(?) and an interpreted language should be used for when something lightweight is necessary
+
+Problem 5: Algorithm Definition
+
+An algorithm is a way of solving a complicated problem, but without writing out exactly what to do in every single possible use case. For example, if you needed to find all the numbers in a list that are  another list, but what if the list contains thousands of numbers that range from 0 to 50 million? This is where an algorithm would come in as you could just test for the exact numbers on the second list.
+
+
+
